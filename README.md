@@ -14,7 +14,7 @@ Repository ini berisi implementasi penelitian **analisis sentimen terhadap lemba
 
 ---
 
-## ▶️ Cara Menjalankan Program
+## Cara Menjalankan Program
 1. Clone repository:
 ```bash
 git clone https://github.com/imleesya/Analisis-Sentimen-Lembaga-Survei.git
